@@ -9,8 +9,8 @@ An IoT-based system that automatically controls fan speed based on surrounding t
 - Energy-efficient operation
 
 ## Tech Stack
-- Arduino / ESP32
-- Temperature Sensor (DHT11 / LM35)
+- Raspberry Pi Pico
+- Temperature Sensor (DHT11)
 - Embedded C
 
 ## Results
